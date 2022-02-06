@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thebugcreator
-- 👀 I’m interested in programming, artificial conversation, and knowledge mining
+- 👀 I’m interested in programming, cognitive science, and knowledge mining
 - 🌱 I’m currently learning NLP at IDMC
 - 💞️ I’m looking to collaborate on NLP projects
 - 📫 Reach me with a groundbreaking idea (and a kiwifruit 🥲)
