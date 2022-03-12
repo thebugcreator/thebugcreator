@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thebugcreator
 - 👀 I’m interested in programming, cognitive science, and knowledge mining
-- 🌱 I’m currently learning NLP at IDMC
+- 🌱 I’m currently studying NLP at IDMC
 - 💞️ I’m looking to collaborate on NLP projects
 - 📫 Reach me with a groundbreaking idea (and a kiwifruit 🥲)
 
