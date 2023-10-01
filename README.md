@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thebugcreator
 - 👀 I’m interested in programming, cognitive science, and knowledge mining
-- 🌱 I’m currently studying NLP at IDMC - France
-- ☕ I'm doing my research internship at LORIA - France
+- 🌱 I’m currently doing my PhD at IRIT - France
 - 📫 Reach me with a groundbreaking idea
 
 <!---
